@@ -1,9 +1,9 @@
-void setup() {
-  // put your setup code here, to run once:
+int ledPin = 14;
 
+void setup() {
+  pinMode(lenPin, OUTPUT);
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
 
 }
